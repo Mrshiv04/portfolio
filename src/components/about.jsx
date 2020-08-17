@@ -8,21 +8,18 @@ class About extends Component {
         <Grid className='about-grid'>
           <Cell col={6}>
             <h2>About Me</h2>
-            {/* <p>
+            <p>
               Hi I'm Shivam, a 26 year old techie working in bengaluru from the
               past 2.6 years, born and brought up in kolkata West bengal, I've
               done my schooling from St Thomas' Boys' School and B.Tech in
               Computer Science & Engineering from St Thomas College of
               Engineering & Technology. I never thought of becoming an engineer,
               but,here i am
-            </p> */}
+            </p>
             <p>
               I’m Shivam a maker with an education in engineering in Computer
               Science & Engineering and a passion for experimenting, learning
-              new skills and building cool things. Like other kids, i too had
-              many aspirations, one day i wanted to be an astraunaut, on the
-              other i saw myself the best cricketer in the world, But i always
-              beleived in "Go with the flow" philosophy. what ever came to
+              new skills and building cool things.
             </p>
           </Cell>
           <Cell col={6} style={{ paddingLeft: '0px' }}>
