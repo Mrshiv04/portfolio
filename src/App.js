@@ -30,7 +30,7 @@ class App extends Component {
           <Drawer
             className='header-color'
             title={
-              <Link style={{ textDecoration: 'none', color: 'black' }} to='/'>
+              <Link style={{ textDecoration: 'none', color: 'white' }} to='/'>
                 Shivam Shah
               </Link>
             }
