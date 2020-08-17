@@ -19,7 +19,8 @@ class About extends Component {
             <p>
               I’m Shivam a maker with an education in engineering in Computer
               Science & Engineering and a passion for experimenting, learning
-              new skills and building cool things.
+              new skills and building cool things. I can take a bullet for a
+              plate of Chicken Biryani!
             </p>
           </Cell>
           <Cell col={6} style={{ paddingLeft: '0px' }}>
