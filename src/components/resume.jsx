@@ -34,7 +34,7 @@ class Resume extends Component {
             <h5>Email</h5>
             <p>shivam.shah095@gmail.com</p>
             <h5>Website</h5>
-            <p>myweb@herokuapp.com</p>
+            <p>https://shivamshah@herokuapp.com</p>
             <hr style={{ borderTop: '3px solid #833fb2', width: '50%' }} />
             <h3 style={{ color: 'grey' }}>Skills *</h3>
             <Skills skills='Core Java' progress='75' />
