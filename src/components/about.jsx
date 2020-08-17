@@ -9,12 +9,12 @@ class About extends Component {
           <Cell col={6}>
             <h2>About Me</h2>
             <p>
-              Hi I'm Shivam, a 26 year old techie working in bengaluru from the
-              past 2.6 years, born and brought up in kolkata West bengal, I've
-              done my schooling from St Thomas' Boys' School and B.Tech in
-              Computer Science & Engineering from St Thomas College of
-              Engineering & Technology. I never thought of becoming an engineer,
-              but,here i am
+              An energetic and hardworking professional having knowledge of
+              JavaScript, ReactJs, Core Java, HTML,MongoDB and MySQL with
+              experience of 2.7 years and want to work in a challenging
+              environment, open to learning new skills and using new systems
+              involved in mentioned area. I have extremely good problem solving
+              skills and good knowledge of OOPs concept.
             </p>
             <p>
               I’m Shivam a maker with an education in engineering in Computer
