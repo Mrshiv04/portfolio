@@ -9,19 +9,16 @@ class About extends Component {
           <Cell col={6}>
             <h2>About Me</h2>
             <p>
-              An energetic and hardworking professional having knowledge of
-              JavaScript, ReactJs, Core Java, HTML,MongoDB and MySQL with
-              experience of 2.7 years and want to work in a challenging
-              environment, open to learning new skills and using new systems
-              involved in mentioned area. I have extremely good problem solving
-              skills and good knowledge of OOPs concept.
-            </p>
-            <p>
               I’m Shivam a maker with an education in engineering in Computer
               Science & Engineering and a passion for experimenting, learning
-              new skills and building cool things. I can take a bullet for a
-              plate of Chicken Biryani!
+              new skills and building cool things. An energetic and hardworking
+              professional having knowledge of JavaScript, ReactJs, Core Java,
+              HTML,MongoDB and MySQL with experience of 2.7 years and want to
+              work in a challenging environment, open to learning new skills and
+              using new systems involved in mentioned area. I have extremely
+              good problem solving skills and good knowledge of OOPs concept.
             </p>
+            <p>I can take a bullet for a plate of Chicken Biryani!</p>
           </Cell>
           <Cell col={6} style={{ paddingLeft: '0px' }}>
             <img
